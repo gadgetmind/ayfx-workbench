@@ -11,6 +11,8 @@ A Python and Qt desktop editor for auditioning, assembling, and editing Shiru AY
 - Edit individual AY frames or draw tone, noise, and volume curves across multiple frames.
 - Save a standard AFB and see its exact byte count before writing the file.
 
+![AYFX Workbench showing the Source Bank, My Bank, and Frame Editor](docs/screenshot.png)
+
 ## Install on Ubuntu
 
 Use Python 3.10 or later. The pinned PySide6 wheel requires glibc 2.34 or later on x86-64. Ubuntu 22.04 or later meets those requirements on x86-64.
